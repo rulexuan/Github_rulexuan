@@ -1,0 +1,13 @@
+*.tar.xz
+*.tar
+*.zip
+*.svg
+pyvenv.cfg
+/include
+/bin
+/lib
+/lib64
+.vscode
+pyenv.cfg
+/share
+/.venv
